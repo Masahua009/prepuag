@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "name": "Habilidades Verbales",
+    "description": "Comprensión lectora, sinónimos, antónimos, analogías y razonamiento verbal.",
+    "icon": "📚",
+    "questionCount": 30,
+    "color": "blue",
+    "section": 1
+  },
+  {
+    "id": 2,
+    "name": "Habilidades Cuantitativas",
+    "description": "Series numéricas, razonamiento lógico-matemático, patrones y resolución de problemas.",
+    "icon": "🔢",
+    "questionCount": 30,
+    "color": "green",
+    "section": 1
+  },
+  {
+    "id": 3,
+    "name": "Español",
+    "description": "Gramática, ortografía, puntuación, sintaxis y comprensión de textos.",
+    "icon": "📝",
+    "questionCount": 15,
+    "color": "purple",
+    "section": 1
+  },
+  {
+    "id": 4,
+    "name": "Matemáticas",
+    "description": "Álgebra, geometría, aritmética, trigonometría y probabilidad.",
+    "icon": "📐",
+    "questionCount": 15,
+    "color": "red",
+    "section": 1
+  },
+  {
+    "id": 5,
+    "name": "Ciencias Naturales",
+    "description": "Biología, física, química y ciencias de la tierra.",
+    "icon": "🔬",
+    "questionCount": 20,
+    "color": "teal",
+    "section": 1
+  },
+  {
+    "id": 6,
+    "name": "Ciencias Sociales",
+    "description": "Historia de México, historia universal, geografía, civismo y economía.",
+    "icon": "🌍",
+    "questionCount": 20,
+    "color": "orange",
+    "section": 1
+  },
+  {
+    "id": 7,
+    "name": "⚙️ Cálculo Diferencial e Integral",
+    "description": "Límites, derivadas, integrales, optimización y aplicaciones del cálculo.",
+    "icon": "∫",
+    "questionCount": 20,
+    "color": "slate",
+    "section": 2
+  },
+  {
+    "id": 8,
+    "name": "⚡ Física",
+    "description": "Mecánica clásica, cinemática, dinámica, electricidad, magnetismo y termodinámica.",
+    "icon": "⚡",
+    "questionCount": 20,
+    "color": "yellow",
+    "section": 2
+  },
+  {
+    "id": 9,
+    "name": "🧪 Química",
+    "description": "Estructura atómica, enlaces, estequiometría, reacciones, termoquímica y electroquímica.",
+    "icon": "🧪",
+    "questionCount": 20,
+    "color": "pink",
+    "section": 2
+  },
+  {
+    "id": 10,
+    "name": "📏 Aritmética y Quebrados",
+    "description": "Operaciones con fracciones, decimales, porcentajes, razones, proporciones y regla de tres.",
+    "icon": "📏",
+    "questionCount": 0,
+    "color": "cyan",
+    "section": 3
+  },
+  {
+    "id": 11,
+    "name": "✖️ Álgebra Básica",
+    "description": "Ecuaciones lineales, cuadráticas, sistemas de ecuaciones, factorización, leyes de exponentes y radicales.",
+    "icon": "✖️",
+    "questionCount": 0,
+    "color": "indigo",
+    "section": 3
+  },
+  {
+    "id": 12,
+    "name": "📐 Trigonometría y Geometría Analítica",
+    "description": "Funciones trigonométricas, identidades, leyes de senos/cosenos, rectas, cónicas y vectores.",
+    "icon": "📐",
+    "questionCount": 0,
+    "color": "rose",
+    "section": 3
+  }
+]

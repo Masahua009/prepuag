@@ -1,0 +1,2312 @@
+[
+  {
+    "id": 1,
+    "areaId": 1,
+    "questionText": "¿Cuál es el sinónimo de EFÍMERO?",
+    "options": [
+      "Duradero",
+      "Pasajero",
+      "Eterno",
+      "Constante"
+    ],
+    "correctIndex": 1,
+    "explanation": "Efímero significa que dura poco tiempo, algo pasajero o temporal.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 2,
+    "areaId": 1,
+    "questionText": "Completa la analogía: Médico es a hospital como profesor es a ___.",
+    "options": [
+      "Libro",
+      "Escuela",
+      "Pizarrón",
+      "Alumno"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un médico trabaja en un hospital, así como un profesor trabaja en una escuela.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 3,
+    "areaId": 1,
+    "questionText": "¿Cuál es el antónimo de BENEVOLENCIA?",
+    "options": [
+      "Bondad",
+      "Maldad",
+      "Generosidad",
+      "Compasión"
+    ],
+    "correctIndex": 1,
+    "explanation": "Benevolencia significa buena voluntad; maldad es su opuesto.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 4,
+    "areaId": 1,
+    "questionText": "Lee el texto: 'El cambio climático es uno de los mayores desafíos de nuestra era. Sus efectos incluyen el aumento del nivel del mar, fenómenos meteorológicos extremos y pérdida de biodiversidad.' ¿Cuál es la idea principal?",
+    "options": [
+      "El nivel del mar está subiendo",
+      "Los fenómenos meteorológicos son extremos",
+      "El cambio climático es un desafío global con graves consecuencias",
+      "La biodiversidad está en peligro"
+    ],
+    "correctIndex": 2,
+    "explanation": "La idea principal abarca el concepto completo del texto.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 5,
+    "areaId": 1,
+    "questionText": "¿Qué palabra no pertenece al grupo?",
+    "options": [
+      "Correr",
+      "Trotar",
+      "Caminar",
+      "Sentarse"
+    ],
+    "correctIndex": 3,
+    "explanation": "Todas las demás son formas de desplazamiento; sentarse es un estado de reposo.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 6,
+    "areaId": 1,
+    "questionText": "¿Cuál es el significado de la palabra UBICUIDAD?",
+    "options": [
+      "Estar en todas partes",
+      "Estar en un solo lugar",
+      "Estar perdido",
+      "Estar escondido"
+    ],
+    "correctIndex": 0,
+    "explanation": "Ubicuidad significa la capacidad de estar presente en todas partes al mismo tiempo.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 7,
+    "areaId": 1,
+    "questionText": "Analiza: 'A pesar de las dificultades económicas, la empresa logró mantener sus operaciones e incluso expandirse.' ¿Qué relación lógica expresa?",
+    "options": [
+      "Causa-efecto",
+      "Contraste u oposición",
+      "Secuencia temporal",
+      "Comparación"
+    ],
+    "correctIndex": 1,
+    "explanation": "'A pesar de' introduce una idea de contraste.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 8,
+    "areaId": 1,
+    "questionText": "Completa: 'El investigador presentó su ___ sobre el origen del universo.'",
+    "options": [
+      "Hipótesis",
+      "Hipotesis",
+      "Ipótesis",
+      "Hyphotesis"
+    ],
+    "correctIndex": 0,
+    "explanation": "La palabra correcta es 'hipótesis', con tilde y h inicial.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 9,
+    "areaId": 1,
+    "questionText": "¿Qué significa la expresión 'DAR GATO POR LIEBRE'?",
+    "options": [
+      "Intercambiar mascotas",
+      "Engañar dando algo de menor valor",
+      "Hacer un buen negocio",
+      "Regalar animales"
+    ],
+    "correctIndex": 1,
+    "explanation": "Significa engañar a alguien entregando una cosa de menor calidad que la prometida.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 10,
+    "areaId": 1,
+    "questionText": "Completa la analogía: Feliz es a alegría como triste es a ___.",
+    "options": [
+      "Sonrisa",
+      "Melancolía",
+      "Lágrima",
+      "Fiesta"
+    ],
+    "correctIndex": 1,
+    "explanation": "Feliz siente alegría, así como triste siente melancolía.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 11,
+    "areaId": 1,
+    "questionText": "¿Cuál de las siguientes oraciones es correcta?",
+    "options": [
+      "Habían muchos alumnos",
+      "Hubo muchos alumnos",
+      "Hubieron muchos alumnos",
+      "Ha habido muchos alumnos"
+    ],
+    "correctIndex": 1,
+    "explanation": "'Hubo' es la forma impersonal correcta del verbo haber.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 12,
+    "areaId": 1,
+    "questionText": "¿Qué recurso literario se usa en 'Tus ojos son dos luceros'?",
+    "options": [
+      "Hipérbole",
+      "Metáfora",
+      "Símil",
+      "Personificación"
+    ],
+    "correctIndex": 1,
+    "explanation": "Es una metáfora porque identifica los ojos con luceros sin usar 'como'.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.561Z"
+  },
+  {
+    "id": 13,
+    "areaId": 2,
+    "questionText": "¿Qué número completa la serie: 2, 6, 12, 20, 30, ___?",
+    "options": [
+      "40",
+      "42",
+      "36",
+      "38"
+    ],
+    "correctIndex": 1,
+    "explanation": "La diferencia aumenta en 2 cada vez: +4,+6,+8,+10,+12 → 30+12=42.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 14,
+    "areaId": 2,
+    "questionText": "Si 3 manzanas cuestan $18, ¿cuánto cuestan 7 manzanas?",
+    "options": [
+      "$36",
+      "$40",
+      "$42",
+      "$48"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada manzana cuesta $18/3=$6. 7 manzanas: 7×$6=$42.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 15,
+    "areaId": 2,
+    "questionText": "¿Qué número sigue: 1, 1, 2, 3, 5, 8, ___?",
+    "options": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "correctIndex": 3,
+    "explanation": "Fibonacci: cada número es la suma de los dos anteriores: 5+8=13.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 16,
+    "areaId": 2,
+    "questionText": "Un padre tiene el triple de edad que su hijo. Si entre ambos suman 48 años, ¿qué edad tiene el padre?",
+    "options": [
+      "32",
+      "36",
+      "30",
+      "40"
+    ],
+    "correctIndex": 1,
+    "explanation": "x+3x=48→4x=48→x=12. Padre: 3×12=36.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 17,
+    "areaId": 2,
+    "questionText": "Si A=2, B=4, C=6, ¿cuál es el valor de (A×B)+C?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctIndex": 2,
+    "explanation": "(2×4)+6=8+6=14.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 18,
+    "areaId": 2,
+    "questionText": "En una sucesión cada número se obtiene multiplicando el anterior por 2 y restando 1. Si empieza con 3, ¿cuál es el cuarto número?",
+    "options": [
+      "15",
+      "17",
+      "19",
+      "21"
+    ],
+    "correctIndex": 1,
+    "explanation": "3→5→9→17.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 19,
+    "areaId": 2,
+    "questionText": "Tres grifos llenan un tanque en 4 horas. ¿Cuánto tardarán 6 grifos iguales?",
+    "options": [
+      "1h",
+      "2h",
+      "3h",
+      "8h"
+    ],
+    "correctIndex": 1,
+    "explanation": "Inversamente proporcional: 3×4=6×x→x=2h.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 20,
+    "areaId": 2,
+    "questionText": "¿Qué número falta: 4, 9, 16, 25, ___?",
+    "options": [
+      "34",
+      "36",
+      "30",
+      "49"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cuadrados perfectos: 2²,3²,4²,5²,6²=36.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 21,
+    "areaId": 2,
+    "questionText": "Si 5 trabajadores construyen un muro en 12 días, ¿cuántos se necesitan para 4 días?",
+    "options": [
+      "10",
+      "15",
+      "20",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "5×12=x×4→x=15.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 22,
+    "areaId": 2,
+    "questionText": "Completa la serie: 3, 6, 18, 72, ___?",
+    "options": [
+      "144",
+      "360",
+      "288",
+      "216"
+    ],
+    "correctIndex": 1,
+    "explanation": "×2,×3,×4,×5→72×5=360.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 23,
+    "areaId": 2,
+    "questionText": "En un salón hay 40 alumnos. El 60% son mujeres. ¿Cuántos hombres hay?",
+    "options": [
+      "12",
+      "14",
+      "16",
+      "24"
+    ],
+    "correctIndex": 2,
+    "explanation": "Mujeres:40×0.60=24. Hombres:40-24=16.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 24,
+    "areaId": 2,
+    "questionText": "¿Cuál es el siguiente número: 2, 4, 8, 16, 32, ___?",
+    "options": [
+      "40",
+      "48",
+      "64",
+      "56"
+    ],
+    "correctIndex": 2,
+    "explanation": "Cada número es el doble del anterior: 32×2=64.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.563Z"
+  },
+  {
+    "id": 25,
+    "areaId": 3,
+    "questionText": "¿Cuál de las siguientes palabras es aguda?",
+    "options": [
+      "Árbol",
+      "Canción",
+      "Lápiz",
+      "Mesa"
+    ],
+    "correctIndex": 1,
+    "explanation": "Canción es aguda: sílaba tónica en la última y termina en 'n'.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 26,
+    "areaId": 3,
+    "questionText": "¿En qué oración se usa correctamente el acento diacrítico?",
+    "options": [
+      "El libro es para mi",
+      "Él libro es para mí",
+      "El libro es para mí",
+      "Él libro es para mi"
+    ],
+    "correctIndex": 2,
+    "explanation": "'El' (artículo) sin tilde; 'mí' (pronombre) con tilde.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 27,
+    "areaId": 3,
+    "questionText": "¿Cuál es el sujeto de: 'Los alumnos de la UAG presentaron el examen'?",
+    "options": [
+      "Los alumnos",
+      "Los alumnos de la UAG",
+      "El examen",
+      "Presentaron"
+    ],
+    "correctIndex": 1,
+    "explanation": "El sujeto completo incluye el complemento del núcleo.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 28,
+    "areaId": 3,
+    "questionText": "Elige la opción correcta: 'Es necesario que ___ a tiempo.'",
+    "options": [
+      "llegues",
+      "llegues tú",
+      "llegas",
+      "llegar"
+    ],
+    "correctIndex": 0,
+    "explanation": "Después de 'que' en subordinada se usa subjuntivo.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 29,
+    "areaId": 3,
+    "questionText": "¿Qué tipo de palabra es 'rápidamente'?",
+    "options": [
+      "Adjetivo",
+      "Adverbio",
+      "Sustantivo",
+      "Verbo"
+    ],
+    "correctIndex": 1,
+    "explanation": "Termina en -mente, es un adverbio de modo.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 30,
+    "areaId": 3,
+    "questionText": "¿Cuál es el plural correcto de 'café'?",
+    "options": [
+      "Cafeses",
+      "Cafés",
+      "Cafeses",
+      "Café's"
+    ],
+    "correctIndex": 1,
+    "explanation": "Palabras con vocal acentuada: plural con -s: cafés.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 31,
+    "areaId": 3,
+    "questionText": "En 'Juan compró flores para María', ¿qué función tiene 'para María'?",
+    "options": [
+      "Objeto directo",
+      "Objeto indirecto",
+      "C.C. de finalidad",
+      "Sujeto"
+    ],
+    "correctIndex": 2,
+    "explanation": "Indica la finalidad o destinatario de la acción.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 32,
+    "areaId": 3,
+    "questionText": "¿Cuál de las siguientes palabras es esdrújula?",
+    "options": [
+      "Camión",
+      "Fácil",
+      "Pájaro",
+      "Reloj"
+    ],
+    "correctIndex": 2,
+    "explanation": "Pájaro: sílaba tónica en la antepenúltima.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 33,
+    "areaId": 3,
+    "questionText": "Selecciona la opción con puntuación correcta:",
+    "options": [
+      "Hola cómo estás?",
+      "Hola, ¿cómo estás?",
+      "Hola ¿cómo estás?",
+      "Hola, ¿cómo estás"
+    ],
+    "correctIndex": 1,
+    "explanation": "Después del saludo va coma, y la pregunta lleva ¿?",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 34,
+    "areaId": 3,
+    "questionText": "¿Cuál es el antónimo de 'generoso'?",
+    "options": [
+      "Altruista",
+      "Egoísta",
+      "Amable",
+      "Bondadoso"
+    ],
+    "correctIndex": 1,
+    "explanation": "Generoso comparte; egoísta es lo contrario.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.565Z"
+  },
+  {
+    "id": 35,
+    "areaId": 4,
+    "questionText": "Resuelve: 3x+5=20. ¿Cuánto vale x?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "6"
+    ],
+    "correctIndex": 2,
+    "explanation": "3x+5=20→3x=15→x=5.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 36,
+    "areaId": 4,
+    "questionText": "¿Cuál es el área de un triángulo con base 8cm y altura 6cm?",
+    "options": [
+      "48cm²",
+      "24cm²",
+      "14cm²",
+      "28cm²"
+    ],
+    "correctIndex": 1,
+    "explanation": "A=(b×h)/2=(8×6)/2=24cm².",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 37,
+    "areaId": 4,
+    "questionText": "Perímetro de un rectángulo=30cm. Largo=10cm. ¿Ancho?",
+    "options": [
+      "3cm",
+      "4cm",
+      "5cm",
+      "6cm"
+    ],
+    "correctIndex": 2,
+    "explanation": "2(10+a)=30→10+a=15→a=5.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 38,
+    "areaId": 4,
+    "questionText": "¿Cuál es el valor de x en: 2x²-8=0?",
+    "options": [
+      "x=2",
+      "x=±2",
+      "x=4",
+      "x=-2"
+    ],
+    "correctIndex": 1,
+    "explanation": "2x²=8→x²=4→x=±2.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 39,
+    "areaId": 4,
+    "questionText": "¿Cuánto es el 25% de 200?",
+    "options": [
+      "25",
+      "40",
+      "50",
+      "75"
+    ],
+    "correctIndex": 2,
+    "explanation": "25%=0.25. 0.25×200=50.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 40,
+    "areaId": 4,
+    "questionText": "Calcula: (2³+3²)÷5",
+    "options": [
+      "2.6",
+      "3.4",
+      "4.2",
+      "5.0"
+    ],
+    "correctIndex": 1,
+    "explanation": "(8+9)÷5=17÷5=3.4.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 41,
+    "areaId": 4,
+    "questionText": "Círculo con radio 7cm. ¿Área aproximada? (π≈3.14)",
+    "options": [
+      "153.86cm²",
+      "140cm²",
+      "160cm²",
+      "150cm²"
+    ],
+    "correctIndex": 0,
+    "explanation": "A=πr²=3.14×49=153.86cm².",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 42,
+    "areaId": 4,
+    "questionText": "Factoriza: x²-9",
+    "options": [
+      "(x-3)²",
+      "(x+3)(x-3)",
+      "(x+9)(x-1)",
+      "x(x-9)"
+    ],
+    "correctIndex": 1,
+    "explanation": "Diferencia de cuadrados: x²-9=(x+3)(x-3).",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 43,
+    "areaId": 4,
+    "questionText": "Probabilidad de obtener número par al lanzar un dado:",
+    "options": [
+      "1/6",
+      "1/3",
+      "1/2",
+      "2/3"
+    ],
+    "correctIndex": 2,
+    "explanation": "3 pares (2,4,6) de 6 resultados: 3/6=1/2.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 44,
+    "areaId": 4,
+    "questionText": "Si log₁₀(x)=2, ¿cuánto vale x?",
+    "options": [
+      "20",
+      "100",
+      "200",
+      "10"
+    ],
+    "correctIndex": 1,
+    "explanation": "log₁₀(x)=2→10²=x→x=100.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.567Z"
+  },
+  {
+    "id": 45,
+    "areaId": 5,
+    "questionText": "¿Cuál es la unidad básica de la vida?",
+    "options": [
+      "El átomo",
+      "La célula",
+      "La molécula",
+      "El tejido"
+    ],
+    "correctIndex": 1,
+    "explanation": "La célula es la unidad estructural y funcional más pequeña de los seres vivos.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 46,
+    "areaId": 5,
+    "questionText": "¿Qué organelo realiza la fotosíntesis?",
+    "options": [
+      "Mitocondria",
+      "Núcleo",
+      "Cloroplasto",
+      "Ribosoma"
+    ],
+    "correctIndex": 2,
+    "explanation": "Los cloroplastos contienen clorofila y realizan la fotosíntesis.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 47,
+    "areaId": 5,
+    "questionText": "¿Cuál es la fórmula química del agua?",
+    "options": [
+      "CO₂",
+      "H₂O",
+      "NaCl",
+      "O₂"
+    ],
+    "correctIndex": 1,
+    "explanation": "Dos átomos de hidrógeno y uno de oxígeno: H₂O.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 48,
+    "areaId": 5,
+    "questionText": "La fuerza que atrae objetos hacia el centro de la Tierra:",
+    "options": [
+      "Magnetismo",
+      "Fricción",
+      "Gravedad",
+      "Inercia"
+    ],
+    "correctIndex": 2,
+    "explanation": "La gravedad es la fuerza de atracción terrestre.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 49,
+    "areaId": 5,
+    "questionText": "¿Qué tipo de energía produce el Sol?",
+    "options": [
+      "Química",
+      "Nuclear (fusión)",
+      "Eléctrica",
+      "Cinética"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Sol fusiona hidrógeno en helio, liberando energía nuclear.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 50,
+    "areaId": 5,
+    "questionText": "¿Cuál es el pH del agua pura?",
+    "options": [
+      "0",
+      "7",
+      "14",
+      "5"
+    ],
+    "correctIndex": 1,
+    "explanation": "El agua pura tiene pH neutro de 7.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 51,
+    "areaId": 5,
+    "questionText": "Las mitocondrias son:",
+    "options": [
+      "El cerebro celular",
+      "La central energética",
+      "El sistema digestivo",
+      "El esqueleto celular"
+    ],
+    "correctIndex": 1,
+    "explanation": "Producen ATP, la principal fuente de energía celular.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 52,
+    "areaId": 5,
+    "questionText": "¿Qué ley de Newton es acción-reacción?",
+    "options": [
+      "Primera",
+      "Segunda",
+      "Tercera",
+      "Gravitación"
+    ],
+    "correctIndex": 2,
+    "explanation": "La tercera ley: a toda acción corresponde una reacción igual y opuesta.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 53,
+    "areaId": 5,
+    "questionText": "El ADN está formado por:",
+    "options": [
+      "Aminoácidos",
+      "Nucleótidos",
+      "Glucosa",
+      "Ácidos grasos"
+    ],
+    "correctIndex": 1,
+    "explanation": "Los nucleótidos (A,T,G,C) son las unidades del ADN.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 54,
+    "areaId": 5,
+    "questionText": "¿Elemento más abundante en el universo?",
+    "options": [
+      "Oxígeno",
+      "Carbono",
+      "Hidrógeno",
+      "Helio"
+    ],
+    "correctIndex": 2,
+    "explanation": "El hidrógeno constituye ~75% de la materia visible.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.568Z"
+  },
+  {
+    "id": 55,
+    "areaId": 6,
+    "questionText": "¿En qué año inició la Revolución Mexicana?",
+    "options": [
+      "1908",
+      "1910",
+      "1912",
+      "1915"
+    ],
+    "correctIndex": 1,
+    "explanation": "Comenzó el 20 de noviembre de 1910.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 56,
+    "areaId": 6,
+    "questionText": "México comparte frontera al norte con:",
+    "options": [
+      "Guatemala",
+      "Belice",
+      "Estados Unidos",
+      "Canadá"
+    ],
+    "correctIndex": 2,
+    "explanation": "México limita al norte con Estados Unidos.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 57,
+    "areaId": 6,
+    "questionText": "¿Qué civilización construyó Machu Picchu?",
+    "options": [
+      "Azteca",
+      "Maya",
+      "Inca",
+      "Olmeca"
+    ],
+    "correctIndex": 2,
+    "explanation": "Machu Picchu fue construido por los incas en Perú.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 58,
+    "areaId": 6,
+    "questionText": "¿Forma de gobierno de México?",
+    "options": [
+      "Monarquía",
+      "República federal",
+      "Dictadura",
+      "Parlamentaria"
+    ],
+    "correctIndex": 1,
+    "explanation": "México es una república representativa, democrática, laica y federal.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 59,
+    "areaId": 6,
+    "questionText": "La Segunda Guerra Mundial terminó en:",
+    "options": [
+      "1943",
+      "1944",
+      "1945",
+      "1946"
+    ],
+    "correctIndex": 2,
+    "explanation": "Terminó en 1945 con la rendición de Alemania y Japón.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 60,
+    "areaId": 6,
+    "questionText": "¿Qué documento establece derechos fundamentales en México?",
+    "options": [
+      "Código Civil",
+      "Constitución Política",
+      "Ley del Trabajo",
+      "Declaración Universal"
+    ],
+    "correctIndex": 1,
+    "explanation": "La Constitución de 1917 garantiza los derechos fundamentales.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 61,
+    "areaId": 6,
+    "questionText": "¿Quién nacionalizó el petróleo en 1938?",
+    "options": [
+      "Porfirio Díaz",
+      "Lázaro Cárdenas",
+      "Benito Juárez",
+      "Francisco I. Madero"
+    ],
+    "correctIndex": 1,
+    "explanation": "Lázaro Cárdenas decretó la expropiación petrolera el 18 de marzo de 1938.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 62,
+    "areaId": 6,
+    "questionText": "¿Qué país NO está en América del Sur?",
+    "options": [
+      "Brasil",
+      "Argentina",
+      "México",
+      "Chile"
+    ],
+    "correctIndex": 2,
+    "explanation": "México pertenece a América del Norte.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 63,
+    "areaId": 6,
+    "questionText": "¿Río más caudaloso del mundo?",
+    "options": [
+      "Nilo",
+      "Amazonas",
+      "Misisipi",
+      "Yangtsé"
+    ],
+    "correctIndex": 1,
+    "explanation": "El Amazonas es el más caudaloso, ubicado en Sudamérica.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 64,
+    "areaId": 6,
+    "questionText": "¿Organismo fundado en 1945 para la paz mundial?",
+    "options": [
+      "OTAN",
+      "ONU",
+      "Unión Europea",
+      "FMI"
+    ],
+    "correctIndex": 1,
+    "explanation": "La ONU se fundó en 1945 tras la Segunda Guerra Mundial.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.570Z"
+  },
+  {
+    "id": 65,
+    "areaId": 7,
+    "questionText": "¿Cuál es el límite de f(x) = (x² - 4)/(x - 2) cuando x→2?",
+    "options": [
+      "0",
+      "2",
+      "4",
+      "No existe"
+    ],
+    "correctIndex": 2,
+    "explanation": "Factorizando: (x-2)(x+2)/(x-2)=x+2. Límite cuando x→2 es 4.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 66,
+    "areaId": 7,
+    "questionText": "¿Cuál es la derivada de f(x) = 3x⁴?",
+    "options": [
+      "12x³",
+      "3x³",
+      "7x³",
+      "12x⁴"
+    ],
+    "correctIndex": 0,
+    "explanation": "d/dx[3x⁴]=3·4x³=12x³.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 67,
+    "areaId": 7,
+    "questionText": "¿Cuál es la derivada de f(x) = sen(x)?",
+    "options": [
+      "-cos(x)",
+      "cos(x)",
+      "-sen(x)",
+      "tan(x)"
+    ],
+    "correctIndex": 1,
+    "explanation": "d/dx[sen(x)] = cos(x).",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 68,
+    "areaId": 7,
+    "questionText": "¿Cuál es la integral indefinida ∫ 2x dx?",
+    "options": [
+      "x²",
+      "x² + C",
+      "2x² + C",
+      "x + C"
+    ],
+    "correctIndex": 1,
+    "explanation": "∫ 2x dx = x² + C.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 69,
+    "areaId": 7,
+    "questionText": "Evalúa ∫₀² 3x² dx:",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctIndex": 2,
+    "explanation": "[x³]₀² = 8 - 0 = 8.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 70,
+    "areaId": 7,
+    "questionText": "Encuentra los puntos críticos de f(x)=x³-3x+2.",
+    "options": [
+      "x=±1",
+      "x=±2",
+      "x=0,3",
+      "x=-1,3"
+    ],
+    "correctIndex": 0,
+    "explanation": "f'(x)=3x²-3=0→x²=1→x=±1.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 71,
+    "areaId": 7,
+    "questionText": "¿Derivada de f(x)=ln(x)?",
+    "options": [
+      "1/x",
+      "x",
+      "eˣ",
+      "ln(x)"
+    ],
+    "correctIndex": 0,
+    "explanation": "d/dx[ln(x)] = 1/x.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 72,
+    "areaId": 7,
+    "questionText": "∫ cos(x) dx = ?",
+    "options": [
+      "-sen(x)+C",
+      "sen(x)+C",
+      "-cos(x)+C",
+      "tan(x)+C"
+    ],
+    "correctIndex": 1,
+    "explanation": "∫ cos(x)dx = sen(x) + C.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 73,
+    "areaId": 7,
+    "questionText": "lim(x→∞) (3x²+2x)/(x²-1) = ?",
+    "options": [
+      "0",
+      "1",
+      "3",
+      "∞"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dividiendo entre x²: (3+2/x)/(1-1/x²)→3.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 74,
+    "areaId": 7,
+    "questionText": "Derivada de f(x)=e²ˣ:",
+    "options": [
+      "e²ˣ",
+      "2e²ˣ",
+      "2xe²ˣ",
+      "eˣ"
+    ],
+    "correctIndex": 1,
+    "explanation": "Regla de la cadena: d/dx[e²ˣ]=e²ˣ·2=2e²ˣ.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 75,
+    "areaId": 7,
+    "questionText": "∫₀^π sen(x) dx = ?",
+    "options": [
+      "0",
+      "1",
+      "2",
+      "-1"
+    ],
+    "correctIndex": 2,
+    "explanation": "[-cos(x)]₀^π = -(-1)-(−1) = 2.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 76,
+    "areaId": 7,
+    "questionText": "¿Para qué x tiene mínimo f(x)=x²-4x+7?",
+    "options": [
+      "x=-2",
+      "x=2",
+      "x=4",
+      "x=-4"
+    ],
+    "correctIndex": 1,
+    "explanation": "f'(x)=2x-4=0→x=2. f''(2)=2>0→mínimo.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 77,
+    "areaId": 7,
+    "questionText": "Derivada de f(x)=tan(x):",
+    "options": [
+      "sec(x)",
+      "sec²(x)",
+      "cot(x)",
+      "sen(x)/cos(x)"
+    ],
+    "correctIndex": 1,
+    "explanation": "d/dx[tan(x)] = sec²(x).",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 78,
+    "areaId": 7,
+    "questionText": "∫₁³ (2x+3) dx = ?",
+    "options": [
+      "10",
+      "12",
+      "14",
+      "16"
+    ],
+    "correctIndex": 2,
+    "explanation": "[x²+3x]₁³ = (9+9)-(1+3) = 14.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 79,
+    "areaId": 7,
+    "questionText": "lim(x→0) sen(x)/x = ?",
+    "options": [
+      "0",
+      "1",
+      "∞",
+      "No existe"
+    ],
+    "correctIndex": 1,
+    "explanation": "Límite fundamental: lim(x→0) sen(x)/x = 1.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.579Z"
+  },
+  {
+    "id": 80,
+    "areaId": 8,
+    "questionText": "Auto parte del reposo y acelera a 3m/s² por 5s. ¿Velocidad final?",
+    "options": [
+      "10m/s",
+      "12m/s",
+      "15m/s",
+      "18m/s"
+    ],
+    "correctIndex": 2,
+    "explanation": "v=v₀+at=0+3×5=15m/s.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 81,
+    "areaId": 8,
+    "questionText": "Fuerza para acelerar 10kg a 4m/s²:",
+    "options": [
+      "2.5N",
+      "14N",
+      "40N",
+      "80N"
+    ],
+    "correctIndex": 2,
+    "explanation": "F=ma=10×4=40N.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 82,
+    "areaId": 8,
+    "questionText": "Piedra cae de 20m. ¿Tiempo hasta el suelo? (g=10m/s²)",
+    "options": [
+      "1s",
+      "2s",
+      "3s",
+      "4s"
+    ],
+    "correctIndex": 1,
+    "explanation": "h=½gt²→20=½(10)t²→t²=4→t=2s.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 83,
+    "areaId": 8,
+    "questionText": "Energía cinética de 2kg a 6m/s:",
+    "options": [
+      "12J",
+      "24J",
+      "36J",
+      "72J"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ec=½mv²=½(2)(36)=36J.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 84,
+    "areaId": 8,
+    "questionText": "Resistencias de 4Ω y 6Ω en serie. Req:",
+    "options": [
+      "2Ω",
+      "2.4Ω",
+      "10Ω",
+      "24Ω"
+    ],
+    "correctIndex": 2,
+    "explanation": "Serie: Req=R₁+R₂=10Ω.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 85,
+    "areaId": 8,
+    "questionText": "Objeto lanzado hacia arriba a 30m/s. ¿Altura máxima? (g=10)",
+    "options": [
+      "30m",
+      "45m",
+      "60m",
+      "90m"
+    ],
+    "correctIndex": 1,
+    "explanation": "h_max=v₀²/(2g)=900/20=45m.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 86,
+    "areaId": 8,
+    "questionText": "Trabajo de fuerza de 20N desplazando 5m:",
+    "options": [
+      "4J",
+      "25J",
+      "100J",
+      "50J"
+    ],
+    "correctIndex": 2,
+    "explanation": "W=F·d=20×5=100J.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 87,
+    "areaId": 8,
+    "questionText": "Frecuencia de onda con período 0.05s:",
+    "options": [
+      "20Hz",
+      "50Hz",
+      "100Hz",
+      "0.05Hz"
+    ],
+    "correctIndex": 0,
+    "explanation": "f=1/T=1/0.05=20Hz.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 88,
+    "areaId": 8,
+    "questionText": "Corriente de 3A por 2min. ¿Carga?",
+    "options": [
+      "6C",
+      "150C",
+      "360C",
+      "600C"
+    ],
+    "correctIndex": 2,
+    "explanation": "Q=I·t=3×(2×60)=360C.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 89,
+    "areaId": 8,
+    "questionText": "Masa de 5kg, círculo r=2m, ω=3rad/s. ¿Fuerza centrípeta?",
+    "options": [
+      "30N",
+      "60N",
+      "90N",
+      "45N"
+    ],
+    "correctIndex": 2,
+    "explanation": "Fc=m·ω²·r=5×9×2=90N.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 90,
+    "areaId": 8,
+    "questionText": "¿Qué dice la primera ley de Newton?",
+    "options": [
+      "F=ma",
+      "Acción-reacción",
+      "Inercia: reposo o MRU sin fuerza neta",
+      "Conservación de energía"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ley de inercia: un cuerpo mantiene su estado si no hay fuerza externa.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 91,
+    "areaId": 8,
+    "questionText": "Potencia de motor que hace 600J en 5s:",
+    "options": [
+      "60W",
+      "120W",
+      "300W",
+      "3000W"
+    ],
+    "correctIndex": 1,
+    "explanation": "P=W/t=600/5=120W.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 92,
+    "areaId": 8,
+    "questionText": "¿Qué ley dice que la energía no se crea ni se destruye?",
+    "options": [
+      "Ley cero",
+      "Primera ley",
+      "Segunda ley",
+      "Tercera ley"
+    ],
+    "correctIndex": 1,
+    "explanation": "Primera ley de la termodinámica: ΔU=Q-W.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 93,
+    "areaId": 8,
+    "questionText": "Bloque 8kg en plano inclinado 30° sin fricción. ¿Fuerza paralela que lo sostiene?",
+    "options": [
+      "40N",
+      "39.2N",
+      "78.4N",
+      "80N"
+    ],
+    "correctIndex": 1,
+    "explanation": "F=mg·sen30°=8×9.8×0.5=39.2N.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 94,
+    "areaId": 8,
+    "questionText": "Longitud de onda de sonido 340Hz que viaja a 340m/s:",
+    "options": [
+      "0.5m",
+      "1m",
+      "2m",
+      "115600m"
+    ],
+    "correctIndex": 1,
+    "explanation": "λ=v/f=340/340=1m.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.582Z"
+  },
+  {
+    "id": 95,
+    "areaId": 9,
+    "questionText": "¿Número atómico del carbono (C)?",
+    "options": [
+      "4",
+      "6",
+      "8",
+      "12"
+    ],
+    "correctIndex": 1,
+    "explanation": "El carbono tiene Z=6 (6 protones).",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 96,
+    "areaId": 9,
+    "questionText": "¿Enlace por compartición de electrones?",
+    "options": [
+      "Iónico",
+      "Covalente",
+      "Metálico",
+      "Puente de hidrógeno"
+    ],
+    "correctIndex": 1,
+    "explanation": "El enlace covalente comparte electrones entre átomos.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 97,
+    "areaId": 9,
+    "questionText": "¿Fórmula del ácido sulfúrico?",
+    "options": [
+      "HCl",
+      "HNO₃",
+      "H₂SO₄",
+      "H₃PO₄"
+    ],
+    "correctIndex": 2,
+    "explanation": "Ácido sulfúrico: H₂SO₄.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 98,
+    "areaId": 9,
+    "questionText": "Balancea: 2H₂+O₂→ ?",
+    "options": [
+      "H₂O",
+      "2H₂O",
+      "H₂O₂",
+      "2HO"
+    ],
+    "correctIndex": 1,
+    "explanation": "2H₂+O₂→2H₂O.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 99,
+    "areaId": 9,
+    "questionText": "¿Moles en 36g de agua? (M=18g/mol)",
+    "options": [
+      "0.5",
+      "1",
+      "2",
+      "36"
+    ],
+    "correctIndex": 2,
+    "explanation": "n=m/M=36/18=2 moles.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 100,
+    "areaId": 9,
+    "questionText": "pH de [H⁺]=1×10⁻³ M:",
+    "options": [
+      "1",
+      "3",
+      "7",
+      "11"
+    ],
+    "correctIndex": 1,
+    "explanation": "pH=-log[H⁺]=-log(10⁻³)=3 (ácida).",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 101,
+    "areaId": 9,
+    "questionText": "Elemento con configuración 1s²2s²2p⁶3s²3p⁴:",
+    "options": [
+      "O",
+      "S",
+      "Se",
+      "Cl"
+    ],
+    "correctIndex": 1,
+    "explanation": "2+2+6+2+4=16 electrones → Azufre (Z=16).",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 102,
+    "areaId": 9,
+    "questionText": "En una reacción exotérmica:",
+    "options": [
+      "Absorbe calor",
+      "Libera calor",
+      "No hay intercambio",
+      "Solo a altas T"
+    ],
+    "correctIndex": 1,
+    "explanation": "Reacción exotérmica: libera energía (ΔH<0).",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 103,
+    "areaId": 9,
+    "questionText": "Agente oxidante en Zn+Cu²⁺→Zn²⁺+Cu:",
+    "options": [
+      "Zn",
+      "Cu²⁺",
+      "Zn²⁺",
+      "Cu"
+    ],
+    "correctIndex": 1,
+    "explanation": "Cu²⁺ se reduce (gana electrones): es el agente oxidante.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 104,
+    "areaId": 9,
+    "questionText": "Masa de NaCl de 23g Na+Cl₂ exceso (Na=23,Cl=35.5):",
+    "options": [
+      "35.5g",
+      "46g",
+      "58.5g",
+      "70g"
+    ],
+    "correctIndex": 2,
+    "explanation": "1mol Na→1mol NaCl=58.5g.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 105,
+    "areaId": 9,
+    "questionText": "Tipo de reacción: CaCO₃→CaO+CO₂:",
+    "options": [
+      "Síntesis",
+      "Descomposición",
+      "Desplazamiento",
+      "Doble desplazamiento"
+    ],
+    "correctIndex": 1,
+    "explanation": "Un compuesto se descompone en productos más simples.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 106,
+    "areaId": 9,
+    "questionText": "Gramos de O₂ para quemar 16g CH₄ (CH₄=16,O₂=32):",
+    "options": [
+      "16g",
+      "32g",
+      "64g",
+      "128g"
+    ],
+    "correctIndex": 2,
+    "explanation": "CH₄+2O₂→CO₂+2H₂O. 1mol CH₄→2mol O₂=64g.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 107,
+    "areaId": 9,
+    "questionText": "Molaridad de 2 moles en 500mL:",
+    "options": [
+      "1M",
+      "2M",
+      "4M",
+      "0.5M"
+    ],
+    "correctIndex": 2,
+    "explanation": "M=moles/L=2/0.5=4M.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 108,
+    "areaId": 9,
+    "questionText": "Partícula subatómica con carga negativa:",
+    "options": [
+      "Protón",
+      "Neutrón",
+      "Electrón",
+      "Positrón"
+    ],
+    "correctIndex": 2,
+    "explanation": "El electrón tiene carga -1.602×10⁻¹⁹C.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 109,
+    "areaId": 9,
+    "questionText": "Ley de gases: PV=nRT:",
+    "options": [
+      "Boyle",
+      "Charles",
+      "Gay-Lussac",
+      "Gas ideal"
+    ],
+    "correctIndex": 3,
+    "explanation": "PV=nRT es la ecuación de los gases ideales.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.584Z"
+  },
+  {
+    "id": 110,
+    "areaId": 10,
+    "questionText": "Resuelve: 3/4 + 1/2 = ?",
+    "options": [
+      "4/6",
+      "1",
+      "5/4",
+      "1/4"
+    ],
+    "correctIndex": 2,
+    "explanation": "3/4+2/4=5/4. Buscamos denominador común 4.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 111,
+    "areaId": 10,
+    "questionText": "Resuelve: 2/3 × 3/5 = ?",
+    "options": [
+      "5/8",
+      "6/15",
+      "2/5",
+      "1/5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Multiplicamos numeradores y denominadores: 6/15=2/5.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 112,
+    "areaId": 10,
+    "questionText": "Resuelve: 5/6 ÷ 2/3 = ?",
+    "options": [
+      "5/9",
+      "5/4",
+      "10/18",
+      "7/6"
+    ],
+    "correctIndex": 1,
+    "explanation": "5/6×3/2=15/12=5/4. Dividir es multiplicar por el inverso.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 113,
+    "areaId": 10,
+    "questionText": "Simplifica: 24/36",
+    "options": [
+      "2/3",
+      "4/6",
+      "12/18",
+      "3/4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Dividiendo entre 12: 24/36=2/3.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 114,
+    "areaId": 10,
+    "questionText": "¿Cuál es mayor: 3/5 o 5/8?",
+    "options": [
+      "3/5",
+      "5/8",
+      "Son iguales",
+      "No se puede saber"
+    ],
+    "correctIndex": 0,
+    "explanation": "3/5=0.6, 5/8=0.625. 3/5=24/40 > 25/40... espera: 3/5=24/40 y 5/8=25/40. ¡5/8 es mayor! 0.6 < 0.625, por lo tanto 5/8.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 115,
+    "areaId": 10,
+    "questionText": "Expresa 0.75 como fracción:",
+    "options": [
+      "3/4",
+      "7/10",
+      "1/4",
+      "75/10"
+    ],
+    "correctIndex": 0,
+    "explanation": "0.75=75/100=3/4.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 116,
+    "areaId": 10,
+    "questionText": "Una pizza se divide en 8 rebanadas. Si comes 3, ¿qué fracción queda?",
+    "options": [
+      "3/8",
+      "1/2",
+      "5/8",
+      "2/3"
+    ],
+    "correctIndex": 2,
+    "explanation": "Quedan 8-3=5 de 8: 5/8.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 117,
+    "areaId": 10,
+    "questionText": "Resuelve: (2/3 + 1/6) × 2 = ?",
+    "options": [
+      "5/3",
+      "1",
+      "2/3",
+      "5/6"
+    ],
+    "correctIndex": 0,
+    "explanation": "2/3+1/6=4/6+1/6=5/6. 5/6×2=10/6=5/3.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 118,
+    "areaId": 10,
+    "questionText": "Convierte 7/2 a número mixto:",
+    "options": [
+      "2½",
+      "3½",
+      "3",
+      "7½"
+    ],
+    "correctIndex": 1,
+    "explanation": "7÷2=3, residuo 1 → 3½.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 119,
+    "areaId": 10,
+    "questionText": "¿Qué fracción representa 0.333...?",
+    "options": [
+      "1/4",
+      "1/3",
+      "3/10",
+      "1/2"
+    ],
+    "correctIndex": 1,
+    "explanation": "0.333... es la representación decimal de 1/3.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 120,
+    "areaId": 10,
+    "questionText": "Resuelve: 5 ÷ (1/4) = ?",
+    "options": [
+      "1/20",
+      "5/4",
+      "20",
+      "4/5"
+    ],
+    "correctIndex": 2,
+    "explanation": "Dividir entre 1/4 es multiplicar por 4: 5×4=20.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 121,
+    "areaId": 10,
+    "questionText": "Un depósito tiene 2/5 de su capacidad llena. Si caben 200 litros, ¿cuántos litros tiene?",
+    "options": [
+      "40L",
+      "80L",
+      "100L",
+      "120L"
+    ],
+    "correctIndex": 1,
+    "explanation": "2/5×200=400/5=80 litros.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 122,
+    "areaId": 10,
+    "questionText": "Resuelve la regla de tres: Si 4 cuadernos cuestan $60, ¿cuánto cuestan 10?",
+    "options": [
+      "$120",
+      "$140",
+      "$150",
+      "$180"
+    ],
+    "correctIndex": 2,
+    "explanation": "4→60, 10→x. x=10×60/4=150.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 123,
+    "areaId": 10,
+    "questionText": "¿Qué porcentaje es 3/20?",
+    "options": [
+      "6%",
+      "12%",
+      "15%",
+      "20%"
+    ],
+    "correctIndex": 2,
+    "explanation": "3/20×100=300/20=15%.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 124,
+    "areaId": 10,
+    "questionText": "Un producto cuesta $800 y tiene 15% de descuento. ¿Precio final?",
+    "options": [
+      "$680",
+      "$700",
+      "$720",
+      "$650"
+    ],
+    "correctIndex": 0,
+    "explanation": "Descuento: 800×0.15=120. Precio: 800-120=$680.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.586Z"
+  },
+  {
+    "id": 125,
+    "areaId": 11,
+    "questionText": "Resuelve: 2x + 7 = 15. ¿x = ?",
+    "options": [
+      "3",
+      "4",
+      "5",
+      "8"
+    ],
+    "correctIndex": 1,
+    "explanation": "2x=15-7=8→x=4.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 126,
+    "areaId": 11,
+    "questionText": "Resuelve: 4(x - 3) = 2x + 6",
+    "options": [
+      "x=6",
+      "x=9",
+      "x=3",
+      "x=12"
+    ],
+    "correctIndex": 1,
+    "explanation": "4x-12=2x+6→2x=18→x=9.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 127,
+    "areaId": 11,
+    "questionText": "Factoriza: x² + 5x + 6",
+    "options": [
+      "(x+2)(x+3)",
+      "(x+1)(x+6)",
+      "(x-2)(x-3)",
+      "(x+5)(x+1)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Buscamos dos números que sumen 5 y multipliquen 6: 2 y 3.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 128,
+    "areaId": 11,
+    "questionText": "Resuelve por factorización: x² - 7x + 12 = 0",
+    "options": [
+      "x=3,4",
+      "x=-3,-4",
+      "x=2,6",
+      "x=1,12"
+    ],
+    "correctIndex": 0,
+    "explanation": "(x-3)(x-4)=0→x=3,4.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 129,
+    "areaId": 11,
+    "questionText": "Resuelve el sistema: x+y=7, x-y=3",
+    "options": [
+      "x=5,y=2",
+      "x=4,y=3",
+      "x=6,y=1",
+      "x=3,y=4"
+    ],
+    "correctIndex": 0,
+    "explanation": "Sumando: 2x=10→x=5, y=7-5=2.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 130,
+    "areaId": 11,
+    "questionText": "Simplifica: (x³·x⁵)/x⁴",
+    "options": [
+      "x⁴",
+      "x³",
+      "x⁸/x⁴",
+      "x⁴/x"
+    ],
+    "correctIndex": 0,
+    "explanation": "x³⁺⁵⁻⁴=x⁴.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 131,
+    "areaId": 11,
+    "questionText": "Simplifica: (a²b)³ = ?",
+    "options": [
+      "a⁵b³",
+      "a⁶b³",
+      "a⁵b⁴",
+      "a⁶b"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a²)³·b³=a⁶b³.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 132,
+    "areaId": 11,
+    "questionText": "Resuelve: √(x+1) = 3",
+    "options": [
+      "x=2",
+      "x=4",
+      "x=8",
+      "x=10"
+    ],
+    "correctIndex": 2,
+    "explanation": "Elevando al cuadrado: x+1=9→x=8.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 133,
+    "areaId": 11,
+    "questionText": "Resuelve con fórmula general: x² - 5x + 6 = 0",
+    "options": [
+      "x=2,3",
+      "x=1,6",
+      "x=-2,-3",
+      "x=5,1"
+    ],
+    "correctIndex": 0,
+    "explanation": "x=[5±√(25-24)]/2=[5±1]/2→x=2,3.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 134,
+    "areaId": 11,
+    "questionText": "Desarrolla: (x + 3)²",
+    "options": [
+      "x²+9",
+      "x²+6x+9",
+      "x²+3x+9",
+      "x²+6x+3"
+    ],
+    "correctIndex": 1,
+    "explanation": "(a+b)²=a²+2ab+b²=x²+6x+9.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 135,
+    "areaId": 11,
+    "questionText": "Simplifica: 3x + 2y - x + 5y",
+    "options": [
+      "2x+7y",
+      "4x+7y",
+      "2x+3y",
+      "4x+3y"
+    ],
+    "correctIndex": 0,
+    "explanation": "3x-x=2x, 2y+5y=7y → 2x+7y.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 136,
+    "areaId": 11,
+    "questionText": "Resuelve: |2x - 4| = 6",
+    "options": [
+      "x=5",
+      "x=5 o x=-1",
+      "x=1 o x=-5",
+      "x=-1"
+    ],
+    "correctIndex": 1,
+    "explanation": "2x-4=6→x=5; o 2x-4=-6→x=-1.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 137,
+    "areaId": 11,
+    "questionText": "Resuelve: (x+2)/(x-1) = 3",
+    "options": [
+      "x=2.5",
+      "x=2",
+      "x=3",
+      "x=1.5"
+    ],
+    "correctIndex": 0,
+    "explanation": "x+2=3(x-1)→x+2=3x-3→2+3=3x-x→5=2x→x=2.5.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 138,
+    "areaId": 11,
+    "questionText": "Desarrolla: (x - 5)(x + 5)",
+    "options": [
+      "x²-25",
+      "x²+25",
+      "x²-10x+25",
+      "x²+10x-25"
+    ],
+    "correctIndex": 0,
+    "explanation": "(a-b)(a+b)=a²-b²=x²-25. Diferencia de cuadrados.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 139,
+    "areaId": 11,
+    "questionText": "Simplifica: √(16x⁸)",
+    "options": [
+      "4x⁴",
+      "8x⁴",
+      "4x²",
+      "16x⁴"
+    ],
+    "correctIndex": 0,
+    "explanation": "√16=4, √(x⁸)=x⁴ → 4x⁴.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.588Z"
+  },
+  {
+    "id": 140,
+    "areaId": 12,
+    "questionText": "¿Cuánto vale sen(30°)?",
+    "options": [
+      "1/2",
+      "√2/2",
+      "√3/2",
+      "1"
+    ],
+    "correctIndex": 0,
+    "explanation": "sen(30°)=1/2. Valor fundamental.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 141,
+    "areaId": 12,
+    "questionText": "¿Cuánto vale cos(60°)?",
+    "options": [
+      "1/2",
+      "√2/2",
+      "√3/2",
+      "0"
+    ],
+    "correctIndex": 0,
+    "explanation": "cos(60°)=1/2.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 142,
+    "areaId": 12,
+    "questionText": "¿Cuánto vale tan(45°)?",
+    "options": [
+      "0",
+      "1",
+      "√3",
+      "1/√3"
+    ],
+    "correctIndex": 1,
+    "explanation": "tan(45°)=sen45°/cos45°=(√2/2)/(√2/2)=1.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 143,
+    "areaId": 12,
+    "questionText": "¿Cuál es la identidad fundamental de la trigonometría?",
+    "options": [
+      "sen²θ+cos²θ=1",
+      "senθ+cosθ=1",
+      "tanθ=senθ·cosθ",
+      "sen²θ-cos²θ=1"
+    ],
+    "correctIndex": 0,
+    "explanation": "sen²θ+cos²θ=1 es la identidad pitagórica fundamental.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 144,
+    "areaId": 12,
+    "questionText": "En un triángulo rectángulo, cateto opuesto=3, hipotenusa=5. ¿senθ?",
+    "options": [
+      "3/5",
+      "4/5",
+      "5/3",
+      "3/4"
+    ],
+    "correctIndex": 0,
+    "explanation": "senθ=opuesto/hipotenusa=3/5.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 145,
+    "areaId": 12,
+    "questionText": "Convierte 180° a radianes:",
+    "options": [
+      "π/2",
+      "π",
+      "2π",
+      "3π/2"
+    ],
+    "correctIndex": 1,
+    "explanation": "180°×π/180°=π radianes.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 146,
+    "areaId": 12,
+    "questionText": "¿Cuál es la pendiente de la recta y=2x+3?",
+    "options": [
+      "2",
+      "3",
+      "-3",
+      "1/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "y=mx+b. La pendiente m es el coeficiente de x: m=2.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 147,
+    "areaId": 12,
+    "questionText": "¿Cuál es la ecuación de la recta que pasa por P(1,2) con pendiente 3?",
+    "options": [
+      "y=3x-1",
+      "y=3x+1",
+      "y=3x+2",
+      "y=3x-2"
+    ],
+    "correctIndex": 0,
+    "explanation": "y-y₁=m(x-x₁)→y-2=3(x-1)→y=3x-3+2→y=3x-1.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 148,
+    "areaId": 12,
+    "questionText": "¿Distancia entre los puntos (0,0) y (3,4)?",
+    "options": [
+      "5",
+      "7",
+      "12",
+      "25"
+    ],
+    "correctIndex": 0,
+    "explanation": "d=√((3-0)²+(4-0)²)=√(9+16)=√25=5.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 149,
+    "areaId": 12,
+    "questionText": "¿Cuál es el centro de la circunferencia (x-2)²+(y+3)²=16?",
+    "options": [
+      "(2,-3)",
+      "(-2,3)",
+      "(2,3)",
+      "(-2,-3)"
+    ],
+    "correctIndex": 0,
+    "explanation": "Centro (h,k) de (x-h)²+(y-k)²=r²: (2,-3).",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 150,
+    "areaId": 12,
+    "questionText": "Ley de senos: a/senA = b/senB = c/senC. Si A=30°, a=5, B=60°, ¿b=?",
+    "options": [
+      "5√3",
+      "10",
+      "5√2",
+      "5/√3"
+    ],
+    "correctIndex": 0,
+    "explanation": "5/sen30°=b/sen60°→5/0.5=b/0.866→10=b/0.866→b=8.66≈5√3.",
+    "difficulty": "difícil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 151,
+    "areaId": 12,
+    "questionText": "¿Cuánto vale cos(90°)?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "cos(90°)=0.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 152,
+    "areaId": 12,
+    "questionText": "Punto medio entre (2,4) y (8,10):",
+    "options": [
+      "(5,7)",
+      "(4,6)",
+      "(6,14)",
+      "(10,14)"
+    ],
+    "correctIndex": 0,
+    "explanation": "M=((x₁+x₂)/2,(y₁+y₂)/2)=((2+8)/2,(4+10)/2)=(5,7).",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 153,
+    "areaId": 12,
+    "questionText": "¿Qué cónica es: x²/9 + y²/4 = 1?",
+    "options": [
+      "Circunferencia",
+      "Elipse",
+      "Parábola",
+      "Hipérbola"
+    ],
+    "correctIndex": 1,
+    "explanation": "x²/a²+y²/b²=1 con a≠b es una elipse.",
+    "difficulty": "media",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  },
+  {
+    "id": 154,
+    "areaId": 12,
+    "questionText": "sen(0°) = ?",
+    "options": [
+      "0",
+      "1",
+      "-1",
+      "1/2"
+    ],
+    "correctIndex": 0,
+    "explanation": "sen(0°)=0.",
+    "difficulty": "fácil",
+    "createdAt": "2026-07-04T23:18:34.590Z"
+  }
+]
